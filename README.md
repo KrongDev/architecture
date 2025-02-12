@@ -7,7 +7,7 @@
 - [Cloud Architecture]()
 - [Client-Server Architecture]()
 ## Software Architecture
-- [Monolithic Architecture]()
+- [Monolithic Architecture](./software/Monolithic.md)
 - [Layered Architecture]()
 - [Microservice Architecture]()
 - [Event-Driven Architecture]()
