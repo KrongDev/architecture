@@ -8,7 +8,7 @@
 - [Client-Server Architecture]()
 ## Software Architecture
 - [Monolithic Architecture](./software/Monolithic.md)
-- [Layered Architecture]()
+- [Layered Architecture](./software/Layered.md)
 - [Microservice Architecture]()
 - [Event-Driven Architecture]()
 - [Service-Oriented Architecture]()
